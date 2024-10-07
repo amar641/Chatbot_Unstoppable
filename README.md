@@ -32,7 +32,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ait-faculty-info-bot.git
+git clone https://github.com/amar641/ait-faculty-info-bot.git
 cd ait-faculty-info-bot
 3. Update the Bot Token
 Open the bot.py file in a text editor and replace the placeholder YOUR_API_TOKEN with the token you received from BotFather:
